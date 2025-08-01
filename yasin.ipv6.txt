@@ -13,3 +13,5 @@
 [2606:4700:3034:32f7:916d:fdd4:8c3d:948a]
 [2606:4700:3034:32f7:916d:fda7:b5a2:7b7a]
 [2a06:98c1:50:2180:2d9f:8b59:8c57:4df7]
+yasin7536.ya30n.workers.dev
+yasin-sun-9d31.smoott-e-l-la206.workers.dev
